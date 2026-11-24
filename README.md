@@ -49,6 +49,7 @@ Synthetic CSV/JSON Data → Python ETL → PostgreSQL → SQL Analytics → Powe
 
 ## Dashboard
 The Power BI dashboard provides ticket KPIs, priority and category analysis, agent performance, customer satisfaction, and interactive filters.
+<img width="887" height="525" alt="image" src="https://github.com/user-attachments/assets/024edd49-6d8b-44d0-aaf3-5c98ba040e3e" />
 
 ## Data Quality
 The pipeline includes checks for duplicate ticket IDs, missing keys, invalid resolution times, and source-to-target row counts.
